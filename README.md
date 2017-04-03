@@ -1,2 +1,2 @@
-# Week1
-Code for week 1
+# Week 3 - Setting up a Model
+
