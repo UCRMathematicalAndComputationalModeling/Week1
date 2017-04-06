@@ -1,2 +1,2 @@
-# Week 3 - Setting up a Model
+# Week 3 - Single Layer Neural Network
 
